@@ -1,0 +1,451 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">  
+  <channel> 
+    <title>BBC News - Home</title>  
+    <link>http://www.bbc.co.uk/news/front_page</link>  
+    <description>The latest stories from the Home section of the BBC News web site.</description>  
+    <language>en-gb</language>  
+    <lastBuildDate>Sun, 13 Mar 2016 19:55:23 GMT</lastBuildDate>  
+    <copyright>Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.</copyright>  
+    <image> 
+      <url>http://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>  
+      <title>BBC News - Home</title>  
+      <link>http://www.bbc.co.uk/news/front_page</link>  
+      <width>120</width>  
+      <height>60</height> 
+    </image>  
+    <ttl>15</ttl>  
+    <atom:link href="http://feeds.bbci.co.uk/news/rss.xml" rel="self" type="application/rss+xml"/>  
+    <item> 
+      <title>Deadly explosion in central Ankara</title>  
+      <description>A car bomb has exploded in the Kizilay district in the Turkish capital Ankara, with officials saying at least 27 people are dead.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-35798517#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-35798517</guid>  
+      <pubDate>Sun, 13 Mar 2016 19:46:21 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Militants kill beach-goers in Ivory Coast</title>  
+      <description>At least 14 civilians and two soldiers are shot dead at a beach resort in Ivory Coast, in an attack claimed by al-Qaeda-linked militants.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-35798502#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-35798502</guid>  
+      <pubDate>Sun, 13 Mar 2016 20:02:34 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/13A0A/production/_88749308_breaking_image_large-3.png"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/CB93/production/_88751125_breaking_image_large-3.png"/> 
+    </item>  
+    <item> 
+      <title>Parents of drowned twins 'devastated'</title>  
+      <description>The parents of twin boys who drowned in a fish pond at their Fife family home speak about the loss of their "miracle babies".</description>  
+      <link>http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35797282#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-scotland-edinburgh-east-fife-35797282</guid>  
+      <pubDate>Sun, 13 Mar 2016 15:23:38 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/746D/production/_88750892_twinboyswithparentsdalgetybay.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/9B7D/production/_88750893_twinboyswithparentsdalgetybay.jpg"/> 
+    </item>  
+    <item> 
+      <title>England win Six Nations as France lose</title>  
+      <description>England win their first Six Nations title since 2011 as France's defeat by Scotland gives Eddie Jones' men an unassailable lead.</description>  
+      <link>http://www.bbc.co.uk/sport/0/rugby-union/35798974</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/rugby-union/35798974</guid>  
+      <pubDate>Sun, 13 Mar 2016 17:32:59 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/9B91/production/_88752893_englandcelebrate.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/C2A1/production/_88752894_englandcelebrate.jpg"/> 
+    </item>  
+    <item> 
+      <title>Osborne warns of cuts of 50p per £100</title>  
+      <description>Chancellor George Osborne says there will be further cuts to public spending in his Budget, equivalent to 50p in every £100.</description>  
+      <link>http://www.bbc.co.uk/news/uk-politics-35796861#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-35796861</guid>  
+      <pubDate>Sun, 13 Mar 2016 14:21:29 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Teen anorexia 'sign of narcissism'</title>  
+      <description>The rise of eating disorders such as anorexia among teenagers is a sign of narcissism in society, broadcaster Baroness Joan Bakewell has said.</description>  
+      <link>http://www.bbc.co.uk/news/uk-35797158#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-35797158</guid>  
+      <pubDate>Sun, 13 Mar 2016 16:23:47 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/2124/production/_88748480_88748169.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/4834/production/_88748481_88748169.jpg"/> 
+    </item>  
+    <item> 
+      <title>Merkel suffers regional election setbacks</title>  
+      <description>The party of German Chancellor Angela Merkel suffers defeats in two of three states holding regional elections, exit polls suggest.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-35796831#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-35796831</guid>  
+      <pubDate>Sun, 13 Mar 2016 18:13:53 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Palestinian wins global teaching prize</title>  
+      <description>A Palestinian teacher who grew up in a refugee camp has been named as the most exceptional teacher in the world.</description>  
+      <link>http://www.bbc.co.uk/news/education-35798117#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/education-35798117</guid>  
+      <pubDate>Sun, 13 Mar 2016 17:28:48 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/DB29/production/_88750165_hegarty.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/10239/production/_88750166_hegarty.jpg"/> 
+    </item>  
+    <item> 
+      <title>Pilot confidentiality 'must be relaxed'</title>  
+      <description>French investigators call for medical confidentiality to be relaxed for pilots, in their final report on last year's Germanwings air crash.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-35797065#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-35797065</guid>  
+      <pubDate>Sun, 13 Mar 2016 16:43:22 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/BF58/production/_88748984_breaking_image_large-3.png"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/E668/production/_88748985_breaking_image_large-3.png"/> 
+    </item>  
+    <item> 
+      <title>Actress Beacham 'reveals rape trauma'</title>  
+      <description>Actress Stephanie Beacham, whose roles include TV series Dynasty and Tenko, tells a newspaper about being raped during the early 1970s.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-35797319#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-35797319</guid>  
+      <pubDate>Sun, 13 Mar 2016 11:03:07 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Police payout for murdered boy's parents</title>  
+      <description>The parents of a 14-year-old boy murdered by a man he met online receive a police payout and an apology over how the case was handled.</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-essex-35797349#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-essex-35797349</guid>  
+      <pubDate>Sun, 13 Mar 2016 10:21:56 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Arsenal 1-2 Watford</title>  
+      <description>Watford stun FA Cup holders Arsenal at the Emirates Stadium to book their place in the semi-finals at Wembley.</description>  
+      <link>http://www.bbc.co.uk/sport/0/football/35738604</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/football/35738604</guid>  
+      <pubDate>Sun, 13 Mar 2016 19:28:23 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>VIDEO: Turkish capital hit by huge explosion</title>  
+      <description>A suspected car bomb has hit the Turkish capital, Ankara, with reports of at least 27 dead and dozens more wounded.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-35798027#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-35798027</guid>  
+      <pubDate>Sun, 13 Mar 2016 18:54:29 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>VIDEO: Several killed in Ivory Coast beach attack</title>  
+      <description>Police in Ivory Coast say several people have been killed in an attack on the popular tourist resort of Grand Bassam.</description>  
+      <link>http://www.bbc.co.uk/news/world-africa-35797133#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-africa-35797133</guid>  
+      <pubDate>Sun, 13 Mar 2016 17:41:55 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/33F9/production/_88750331_88750323.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/485D/production/_88752581_88750323.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Ceausescu's palace: Inside former dictator's home</title>  
+      <description>The home of Romania's former communist ruling couple, Nicolae and Elena Ceausescu, has been opened to the public 27 years after they were executed.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-35797077#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-35797077</guid>  
+      <pubDate>Sun, 13 Mar 2016 08:49:00 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/15814/production/_88748088_88748069.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/17F24/production/_88748089_88748069.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: How a cat changed an autistic girl's life</title>  
+      <description>Arabella Carter-Johnson explains how her autistic daughter's life was transformed by Thula the cat.</description>  
+      <link>http://www.bbc.co.uk/news/health-35797084#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-35797084</guid>  
+      <pubDate>Sun, 13 Mar 2016 12:21:05 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/14298/production/_88748528_88748440.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/169A8/production/_88748529_88748440.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Would you take a dose of hookworms?</title>  
+      <description>Scientists are infecting healthy volunteers with hookworms to help the development of a vaccine against the parasite.</description>  
+      <link>http://www.bbc.co.uk/news/health-35779112#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-35779112</guid>  
+      <pubDate>Sun, 13 Mar 2016 00:04:17 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/4E78/production/_88688002_de30.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/7588/production/_88688003_de30.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Lebanon's rivers of rotting rubbish</title>  
+      <description>Protests prompt the government in Lebanon is to temporarily reopen a landfill site to end the rubbish crisis in Beirut.</description>  
+      <link>http://www.bbc.co.uk/news/world-middle-east-35797127#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-middle-east-35797127</guid>  
+      <pubDate>Sun, 13 Mar 2016 09:12:04 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/282C/production/_88748201_88748193.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/4F3C/production/_88748202_88748193.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Obama warns against 'insults and taunts'</title>  
+      <description>US President Barack Obama has warned White House contenders to avoid raising tensions, a day after a rally by Donald Trump was called off amid clashes.</description>  
+      <link>http://www.bbc.co.uk/news/election-us-2016-35797009#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/election-us-2016-35797009</guid>  
+      <pubDate>Sun, 13 Mar 2016 08:32:55 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/F2E8/production/_88748126_88748001.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/119F8/production/_88748127_88748001.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: 20 years since Dunblane shootings</title>  
+      <description>It is 20 years since 16 students and their teacher were killed at Dunblane Primary School in Scotland.</description>  
+      <link>http://www.bbc.co.uk/news/uk-35763529#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-35763529</guid>  
+      <pubDate>Sun, 13 Mar 2016 00:02:07 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Little impact from online abuse summit</title>  
+      <description>At South by Southwest Interactive, an inaugural summit is trying to tackle issues around online harassment.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35752657#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35752657</guid>  
+      <pubDate>Sun, 13 Mar 2016 04:55:57 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/DDC6/production/_88747765_1-1.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/104D6/production/_88747766_1-1.jpg"/> 
+    </item>  
+    <item> 
+      <title>Dutch to hold stormy referendum on EU-Ukraine deal</title>  
+      <description>The Netherlands is to hold a controversial referendum in April on the EU's new partnership with Ukraine, Anna Holligan reports.</description>  
+      <link>http://www.bbc.co.uk/news/world-europe-35786922#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/world-europe-35786922</guid>  
+      <pubDate>Sat, 12 Mar 2016 00:24:29 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>What does 'Islam' think of America?</title>  
+      <description>US Republican presidential front-runner Donald Trump says Islam hates America, but is there anything to back up his claim?</description>  
+      <link>http://www.bbc.co.uk/news/election-us-2016-35782196#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/election-us-2016-35782196</guid>  
+      <pubDate>Sun, 13 Mar 2016 08:08:31 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Jeremy Corbyn and the EU referendum</title>  
+      <description>Labour is campaigning for the UK to remain in the EU, but how enthusiastic is leader Jeremy Corbyn about the UK's relationship with Brussels?</description>  
+      <link>http://www.bbc.co.uk/news/uk-politics-eu-referendum-35743994#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-eu-referendum-35743994</guid>  
+      <pubDate>Sat, 12 Mar 2016 00:30:59 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Aston Villa 0-2 Tottenham Hotspur</title>  
+      <description>Tottenham close the gap on leaders Leicester to two points after Harry Kane's quickfire double sinks struggling Aston Villa.</description>  
+      <link>http://www.bbc.co.uk/sport/0/football/35738638</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/football/35738638</guid>  
+      <pubDate>Sun, 13 Mar 2016 18:52:33 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Manchester United 1-1 West Ham United</title>  
+      <description>Anthony Martial's late equaliser means Manchester United and West Ham will replay for place in the FA Cup semi-finals.</description>  
+      <link>http://www.bbc.co.uk/sport/0/football/35738603</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/football/35738603</guid>  
+      <pubDate>Sun, 13 Mar 2016 18:26:45 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Hibernian 1-2 Ross County</title>  
+      <description>Alex Schalk scores an 90th-minute winner as Ross County beat Hibernian to win the Scottish League Cup final.</description>  
+      <link>http://www.bbc.co.uk/sport/0/football/35738631</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/football/35738631</guid>  
+      <pubDate>Sun, 13 Mar 2016 16:57:44 GMT</pubDate>  
+      <media:thumbnail width="66" height="37" url="http://c.files.bbci.co.uk/C55D/production/_88752505_schalk2.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/EC6D/production/_88752506_schalk2.jpg"/> 
+    </item>  
+    <item> 
+      <title>Scotland 29-18 France</title>  
+      <description>Scotland earn a first victory over France for 10 years that also confirms England as Six Nations champions.</description>  
+      <link>http://www.bbc.co.uk/sport/0/rugby-union/35756073</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/sport/0/rugby-union/35756073</guid>  
+      <pubDate>Sun, 13 Mar 2016 16:48:25 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Doubts over EDF's Hinkley nuclear plan</title>  
+      <description>Fresh doubts arise over French energy firm EDF's plans for an £18bn nuclear power plant at Hinkley Point in Somerset.</description>  
+      <link>http://www.bbc.co.uk/news/business-35793445#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-35793445</guid>  
+      <pubDate>Sat, 12 Mar 2016 17:05:45 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Slow China output fuels recovery fears</title>  
+      <description>Chinese industrial production slows to its weakest growth since the financial crisis, as Britain warns China's slowdown could derail the global recovery.</description>  
+      <link>http://www.bbc.co.uk/news/business-35797209#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/business-35797209</guid>  
+      <pubDate>Sun, 13 Mar 2016 12:39:08 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/6FA8/production/_88748582__86433150_86433149.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/77DC/production/_88748603__86433150_86433149.jpg"/> 
+    </item>  
+    <item> 
+      <title>Turkey EU membership 'not on the cards'</title>  
+      <description>Turkey joining the EU is not "on the cards any time soon", George Osborne says, adding that the UK has "a veto" on the issue.</description>  
+      <link>http://www.bbc.co.uk/news/uk-politics-eu-referendum-35797679#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-eu-referendum-35797679</guid>  
+      <pubDate>Sun, 13 Mar 2016 16:33:04 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Calm down over leadership, Watson warns</title>  
+      <description>Labour's deputy leader calls for politicians across his party to "calm down", amid speculation about a possible leadership challenge.</description>  
+      <link>http://www.bbc.co.uk/news/uk-politics-35797033#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-35797033</guid>  
+      <pubDate>Sun, 13 Mar 2016 12:41:29 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Doctors urge more social care funding</title>  
+      <description>Doctors' leaders write to George Osborne asking for further funding for social care in next week's Budget.</description>  
+      <link>http://www.bbc.co.uk/news/health-35785848#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-35785848</guid>  
+      <pubDate>Sat, 12 Mar 2016 00:18:05 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Disabled people face benefits change</title>  
+      <description>More than half a million disabled people could lose out as a result of further changes over the next four years to welfare payments.</description>  
+      <link>http://www.bbc.co.uk/news/uk-politics-35793004#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-politics-35793004</guid>  
+      <pubDate>Sat, 12 Mar 2016 16:07:16 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Education is 'toughest reform' - Blair</title>  
+      <description>Changing the education system is "one of the most difficult things" for a government, said former UK prime minister Tony Blair.</description>  
+      <link>http://www.bbc.co.uk/news/education-35779235#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/education-35779235</guid>  
+      <pubDate>Sun, 13 Mar 2016 15:07:58 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/15110/production/_88688268_031639356.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/17820/production/_88688269_031639356.jpg"/> 
+    </item>  
+    <item> 
+      <title>School chief bans use of 'Trojan Horse'</title>  
+      <description>Birmingham's education commissioner says he has banned the use of the term "Trojan horse" to describe the allegations of attempts to take over schools in the city.</description>  
+      <link>http://www.bbc.co.uk/news/education-35794359#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/education-35794359</guid>  
+      <pubDate>Sat, 12 Mar 2016 16:58:07 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Human scores first win over AlphaGo</title>  
+      <description>Go master Lee Se-dol wins a game against Google's AlphaGo program, after losing three in a row in a best-of-five competition</description>  
+      <link>http://www.bbc.co.uk/news/technology-35797102#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35797102</guid>  
+      <pubDate>Sun, 13 Mar 2016 11:36:08 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Click: Watch a full show in 360 degrees</title>  
+      <description>Technology show Click makes history with the BBC's first interactive fully 360-degree programme.</description>  
+      <link>http://www.bbc.co.uk/news/technology-35787139#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/technology-35787139</guid>  
+      <pubDate>Fri, 11 Mar 2016 16:50:40 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/65B1/production/_88733062_360website.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/8CC1/production/_88733063_360website.jpg"/> 
+    </item>  
+    <item> 
+      <title>Mars mission targets Monday launch</title>  
+      <description>All looks good for an on-time launch on Monday of the joint European and Russian ExoMars mission, which will try to track down the Red Planet's sources of methane.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-35767882#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-35767882</guid>  
+      <pubDate>Sat, 12 Mar 2016 04:58:38 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/0F27/production/_88697830_32813.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/3637/production/_88697831_32813.jpg"/> 
+    </item>  
+    <item> 
+      <title>Europe's rarest seabird 'faces extinction'</title>  
+      <description>The Balearic sheerwater will be extinct within 60 years, according to a new analysis.</description>  
+      <link>http://www.bbc.co.uk/news/science-environment-35778655#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/science-environment-35778655</guid>  
+      <pubDate>Sat, 12 Mar 2016 04:32:30 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Eagles of Death Metal singer's apology</title>  
+      <description>Eagles of Death Metal singer Jesse Hughes apologises for suggesting some Bataclan security guards may have had advance warning about the venue being attacked in Paris last year.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-35797322#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-35797322</guid>  
+      <pubDate>Sun, 13 Mar 2016 13:36:50 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Progressive rock legend Emerson dies</title>  
+      <description>Progressive rock legend Keith Emerson of Emerson, Lake and Palmer dies of a self-inflicted gunshot wound, aged 71, police tell the BBC.</description>  
+      <link>http://www.bbc.co.uk/news/entertainment-arts-35787187#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/entertainment-arts-35787187</guid>  
+      <pubDate>Sat, 12 Mar 2016 09:27:48 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/6151/production/_88731942_breaking_image_large-3.png"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/8861/production/_88731943_breaking_image_large-3.png"/> 
+    </item>  
+    <item> 
+      <title>Why don't they make shoes for black ballet dancers?</title>  
+      <description>Black ballet dancer Eric Underwood has had to paint his own shoes. Does ballet have a colour problem?</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35629323#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35629323</guid>  
+      <pubDate>Fri, 11 Mar 2016 01:03:30 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Why Chinese officials are afraid to look too smart</title>  
+      <description>Why Chinese officials don't want to be seen in expensive shops</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35775958#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35775958</guid>  
+      <pubDate>Fri, 11 Mar 2016 23:00:44 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Your pictures: Flags</title>  
+      <description>Readers' photographs on the theme of flags.</description>  
+      <link>http://www.bbc.co.uk/news/in-pictures-35765269#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/in-pictures-35765269</guid>  
+      <pubDate>Fri, 11 Mar 2016 08:38:34 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Week in pictures</title>  
+      <description>A selection of the best news photographs from around the world taken over the past week.</description>  
+      <link>http://www.bbc.co.uk/news/in-pictures-35784444#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/in-pictures-35784444</guid>  
+      <pubDate>Sat, 12 Mar 2016 00:57:01 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Justice for all?</title>  
+      <description>What should governments do to bring fair representation to all?</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35778524#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35778524</guid>  
+      <pubDate>Sat, 12 Mar 2016 00:33:09 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>When does borrowing from other cultures become wrong?</title>  
+      <description>Why we should borrow from other cultures</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35782855#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35782855</guid>  
+      <pubDate>Fri, 11 Mar 2016 16:51:28 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>The children who just want to go home</title>  
+      <description>They want to go home despite the bombs</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35783692#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35783692</guid>  
+      <pubDate>Sun, 13 Mar 2016 00:07:03 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>The 1980s cars being targeted by thieves</title>  
+      <description>The alarming rise in 1980s car thefts</description>  
+      <link>http://www.bbc.co.uk/news/uk-england-35716456#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/uk-england-35716456</guid>  
+      <pubDate>Sun, 13 Mar 2016 00:15:07 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>The mothers who set up a radiation lab</title>  
+      <description>The Japanese mothers who set up a radiation lab</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35784923#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35784923</guid>  
+      <pubDate>Sun, 13 Mar 2016 00:11:19 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Is fermented food a recipe for good gut health?</title>  
+      <description>What's good for the gut about pickled cabbage?</description>  
+      <link>http://www.bbc.co.uk/news/health-35780468#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/health-35780468</guid>  
+      <pubDate>Sun, 13 Mar 2016 00:14:35 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/E423/production/_88730485_thinkstockphotos-511533422.jpg"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/10B33/production/_88730486_thinkstockphotos-511533422.jpg"/> 
+    </item>  
+    <item> 
+      <title>VIDEO: Armpit hair, a depressed elephant... and other trends of the week</title>  
+      <description>Plus baby DiCaprio and other trends of the week</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35786167#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35786167</guid>  
+      <pubDate>Sun, 13 Mar 2016 00:17:48 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/11C60/production/_88700827_elephant4.png"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/14370/production/_88700828_elephant4.png"/> 
+    </item>  
+    <item> 
+      <title>Weekend Edition: The week's best reads</title>  
+      <description>The girl groomed online and kidnapped at 13, plus other reads</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35748280#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35748280</guid>  
+      <pubDate>Fri, 11 Mar 2016 16:24:04 GMT</pubDate> 
+    </item>  
+    <item> 
+      <title>Go Figure: The week in numbers</title>  
+      <description>The week's big numbers visualised</description>  
+      <link>http://www.bbc.co.uk/news/magazine-35785568#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa</link>  
+      <guid isPermaLink="false">http://www.bbc.co.uk/news/magazine-35785568</guid>  
+      <pubDate>Sun, 13 Mar 2016 00:40:44 GMT</pubDate>  
+      <media:thumbnail width="66" height="49" url="http://c.files.bbci.co.uk/CD02/production/_88728425_10_03_rhino_sqr.gif"/>  
+      <media:thumbnail width="144" height="81" url="http://c.files.bbci.co.uk/F412/production/_88728426_10_03_rhino_sqr.gif"/> 
+    </item> 
+  </channel> 
+</rss>
